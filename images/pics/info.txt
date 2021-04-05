@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Galada-Regular
+font link: https://fonts.google.com/specimen/Galada
+font author: Black Foundry
+font author site: https://black-foundry.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F7EEF8","icon-gradient-0":"#A53E33","icon-gradient-1":"#BA69C9","font":"#422230","slogan":"#563644"}
+      
